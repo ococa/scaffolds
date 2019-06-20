@@ -17,6 +17,9 @@ class App extends Component {
     };
     dispatch(action);
   }
+  componentDidMount() {
+    console.log(this)
+  }
   render() {
     return (
       <div className="App">

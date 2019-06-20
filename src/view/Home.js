@@ -24,6 +24,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
+          <h1> pm2 deploy test </h1>
           <p className="let-App-link">
             react + redux + redux-thunk + react-router + antd + babel-plugin-import 脚手架
           </p>
